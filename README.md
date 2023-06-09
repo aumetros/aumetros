@@ -1,4 +1,4 @@
-### Hi there 👋
+### Всем привет! Меня зовут Алексей и мы собираемся воплощать мечту в жизнь!
 
 <!--
 **aumetros/aumetros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
