@@ -9,4 +9,4 @@
 - 🌱 Ищу компанию, в которой можно создавать что-то полезное и важное для людей. 
 
 ## 🧠 В данный момент освоил следующий технологический стек:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
