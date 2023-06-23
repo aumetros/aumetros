@@ -11,7 +11,7 @@
 &nbsp;
 
 ## 📍Мои контакты:
-<a href="https://t.me/aumetros"><img src="./img/telegram.svg" alt="Ссылка на Телеграм"></a>
+<a href="https://t.me/aumetros"><img src="./img/telegram.svg" alt="Ссылка на Телеграм"></a> 	<img src="https://img.shields.io/badge/<99999>%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>
 
 ## 🧾 Обо мне языком цифр:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aumetros&theme=nord_dark)
