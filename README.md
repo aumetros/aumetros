@@ -11,7 +11,7 @@
 &nbsp;
 
 ## 📍Мои контакты:
-<a href="https://t.me/aumetros"><img src="./img/telegram.svg" alt="Ссылка на Телеграм"></a> <a href="https://t.me/aumetros"><img src="./img/yandexmail.jpg" style="height: 28px" alt="Ссылка на Телеграм"></a>
+<a href="https://t.me/aumetros"><img src="./img/telegram.svg" alt="Ссылка на Телеграм"></a> <a href="mailto:aum3tros@yandex.ru"><img src="./img/yandexmail.jpg" style="height: 28px" alt="Ссылка на Яндекс"></a>
 
 ## 🧾 Обо мне языком цифр:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aumetros&theme=nord_dark)
