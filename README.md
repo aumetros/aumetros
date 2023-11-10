@@ -16,3 +16,4 @@
 ## 🧾 Обо мне языком цифр:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aumetros&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aumetros&theme=nord_dark)   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aumetros&theme=nord_dark)
+![](https://www.codewars.com/users/aumetros/badges/small)
