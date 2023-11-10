@@ -13,7 +13,9 @@
 ## 📍Мои контакты:
 <a href="https://t.me/aumetros"><img src="./img/telegram.svg" alt="Ссылка на Телеграм"></a> <a href="mailto:aum3tros@yandex.ru"><img src="./img/yandexmail.jpg" style="height: 28px" alt="Ссылка на Яндекс"></a>
 
+## 🥷🏼 В соревеновании рождается сила:
+![](https://www.codewars.com/users/aumetros/badges/large)
+
 ## 🧾 Обо мне языком цифр:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aumetros&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aumetros&theme=nord_dark)   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aumetros&theme=nord_dark)
-![](https://www.codewars.com/users/aumetros/badges/small)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aumetros&theme=nord_dark)
