@@ -13,7 +13,7 @@
 ## 📍Мои контакты:
 <a href="https://t.me/aumetros"><img src="./img/telegram.svg" alt="Ссылка на Телеграм"></a> <a href="mailto:aum3tros@yandex.ru"><img src="./img/yandexmail.jpg" style="height: 28px" alt="Ссылка на Яндекс"></a>
 
-## 🥷🏼 В соревеновании рождается сила:
+## 🥷🏼 В соревновании рождается сила:
 ![](https://www.codewars.com/users/aumetros/badges/large)
 
 ## 🧾 Обо мне языком цифр:
